@@ -58,7 +58,7 @@
 
 ![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/total_m.png)
 
-**2.** Объедение таблиц в одну.
+**2.** Объединение таблиц в одну.
 
 **Реализовано в таске `df_merging`**.
 
