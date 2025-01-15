@@ -40,6 +40,11 @@
 
 **Реализовано в таске `total_lv`**.
 
+**Пример датасета после выполнения таски**:
+
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/total_lv.png)
+
+
 **1.2.** Из таблицы **message_actions** для каждого пользователя посчитать:  
     
 - количество отправленных сообщений (messages_sent).
@@ -49,9 +54,17 @@
 
 **Реализовано в таске `total_m`**.
 
+**Пример датасета после выполнения таски**:
+
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/total_m.png)
+
 **2.** Объедение таблиц в одну.
 
 **Реализовано в таске `df_merging`**.
+
+**Пример датасета после выполнения таски**:
+
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/df_merging.png)
 
 **3.** Подсчет всеx метрик в разрезе по:
         
@@ -60,6 +73,12 @@
 - операционной системе (os).
 
 **Реализовано в тасках `to_gender`, `to_age`, `to_os`**.
+
+**Пример датасетов после выполнения тасок**:
+
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/to_gender.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/to_age.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/to_os.png)
    
 **4.** Загрузка данных в финальную таблицу со следующей структурой:
    - `event_date` - дата;
