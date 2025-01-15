@@ -101,7 +101,7 @@
 
 **Граф**:
 
-![dag:](https://github.com/Kateri-Che/etl-project/blob/main/etl_%D0%B4%D0%B0%D0%B3.png)
+![dag:](https://github.com/Kateri-Che/etl-project/blob/main/etl_dag.png)
 
 **Финальная таблица**:
 
