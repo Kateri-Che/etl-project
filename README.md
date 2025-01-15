@@ -101,9 +101,13 @@
 
 **Граф**:
 
+![dag:](https://github.com/Kateri-Che/etl-project/blob/main/etl_%D0%B4%D0%B0%D0%B3.png)
+
 **Финальная таблица**:
 
-**Загруженные в финальную таблицу данные за несколько дней (загрузить пример)**.
+![table:](https://github.com/Kateri-Che/etl-project/blob/main/clickhouse_data.png)
+
+**Загруженные в финальную таблицу данные за несколько дней ([загрузить пример](https://github.com/Kateri-Che/etl-project/raw/main/etl_piece_of_data.xlsx))**.
 
 
 
