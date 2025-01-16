@@ -99,11 +99,11 @@
 
 **Реализовано в таске `load`**.
 
-**Граф**:
+**Граф в Airflow**:
 
 ![dag:](https://github.com/Kateri-Che/etl-project/blob/main/etl_dag.png)
 
-**Финальная таблица**:
+**Финальная таблица в Clickhouse**:
 
 ![table:](https://github.com/Kateri-Che/etl-project/blob/main/clickhouse_data.png)
 
