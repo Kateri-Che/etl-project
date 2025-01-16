@@ -30,7 +30,7 @@
  - `exp_group` - группа для эксперимента (0, 1, 2, 3 или 4)
 
 
-### Этапы реализации задачи ([код здесь](https://github.com/Kateri-Che/etl-project/blob/main/etl_dag.py))
+### Этапы реализации задачи ([посмотреть код](https://github.com/Kateri-Che/etl-project/blob/main/etl_dag.py))
 **1. Подсчет метрик**:
 
 **1.1.** Из таблица **feed_actions** для каждого пользователя посчитать:
