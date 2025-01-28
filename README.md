@@ -97,4 +97,4 @@
 
 ![table:](https://github.com/Kateri-Che/etl-project/blob/main/clickhouse_data.png)
 
-**Загруженные в финальную таблицу данные за несколько дней: [скачать пример](https://github.com/Kateri-Che/etl-project/raw/main/etl_piece_of_data.xlsx)**
+**Загруженные в финальную таблицу данные за несколько дней: [скачать пример](https://drive.google.com/drive/folders/1Ru9pKkihgfE1skJMVboEylY8ZgdmXOud?usp=sharing)**
