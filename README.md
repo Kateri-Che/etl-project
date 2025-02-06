@@ -88,7 +88,7 @@
 
 **Граф в Airflow**:
 
-![dag:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/etl_dag.png)
+![dag:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/dag.png)
 
 **Финальная таблица в Clickhouse**:
 
