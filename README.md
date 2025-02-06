@@ -23,7 +23,7 @@
 
 **Пример датасета после выполнения таски**:
 
-![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/total_lv.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/total_lv.png)
 
 
 **1.2.** Из таблицы **message_actions** для каждого пользователя посчитать:  
@@ -37,7 +37,7 @@
 
 **Пример датасета после выполнения таски**:
 
-![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/total_m.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/total_m.png)
 
 **2.** Объединение таблиц в одну.
 
@@ -45,7 +45,7 @@
 
 **Пример датасета после выполнения таски**:
 
-![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/df_merging.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/df_merging.png)
 
 **3.** Подсчет всеx метрик в разрезе по:
         
@@ -57,9 +57,9 @@
 
 **Пример датасетов после выполнения тасок**:
 
-![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/to_gender.png)
-![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/to_age.png)
-![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/to_os.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/to_gender.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/to_age.png)
+![dataset:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/to_os.png)
    
 **4.** Загрузка данных:
 
@@ -92,6 +92,6 @@
 
 **Финальная таблица в Clickhouse**:
 
-![table:](https://github.com/Kateri-Che/etl-project/blob/main/clickhouse_data.png)
+![table:](https://github.com/Kateri-Che/etl-project/blob/main/sceenshots/clickhouse_data.png)
 
 **Загруженные в финальную таблицу данные за несколько дней: [скачать пример](https://drive.google.com/drive/folders/1Ru9pKkihgfE1skJMVboEylY8ZgdmXOud?usp=sharing)**
