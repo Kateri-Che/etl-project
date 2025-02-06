@@ -1,3 +1,5 @@
+## Построение ETL-пайплайна
+
 ### Контекст
 Компании требуется настроить автоматическую выгрузку показателей по определенным метрикам в отдельную таблицу в базе данных.
 
@@ -7,12 +9,7 @@
 Данные автоматически должны подгружаться в отдельную таблицу в Clickhouse.
 
 ### Стек
- - airflow
- - pandas
- - pandahouse
- - clickhouse
- - numpy
- - os
+ - airflow, pandas, pandahouse, clickhouse, numpy, os
 
 ### Этапы реализации задачи ([посмотреть код](https://github.com/Kateri-Che/etl-project/blob/main/etl_dag.py))
 **1. Подсчет метрик**:
